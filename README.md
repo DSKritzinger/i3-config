@@ -14,4 +14,4 @@ Features of importance:
 TODO:
 - Brigthness indicator
 - Screen auto dimming
-- Screen autolock
+- Screen auto lock and suspend
